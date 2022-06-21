@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel Marcelo Copa</h1>
 <h3 align="center">I am a System Analyst Technician and full stack developer, passionate about programming and web development. I studied full stack developer at Soy Herny and acquired all the necessary knowledge to start my path in this world of programming</h3>
 
-- 💬 Ask me about **React JS, Node JS, HTML, CSS3**
+- 💬 Ask me about **React JS, JavaScript, Node JS, expressJS , mongoDB ,HTML5, CSS3**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
