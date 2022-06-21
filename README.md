@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel Marcelo Copa</h1>
+##
+<h2>Full Stack Developer 😁 from Argentina to 🌍</h2>
+##
 <h3 align="center">I am a System Analyst Technician and full stack developer, passionate about programming and web development. I studied full stack developer at Soy Herny and acquired all the necessary knowledge to start my path in this world of programming</h3>
 
 - 💬 Ask me about **React JS, JavaScript, Node JS, expressJS , mongoDB ,HTML5, CSS3**
