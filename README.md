@@ -2,11 +2,22 @@
 
 <h2 align="center">Full Stack Developer 😁</h2>
 
-<h3 align="center">I am a System Analyst Technician and full stack developer, passionate about programming and web development. I studied full stack developer at Soy Herny and acquired all the necessary knowledge to start my path in this world of programming</h3>
+<h4 >Me gradue como Técnico Analista de Sistemas por 2018, en el cual adquiri conocimientos de gestión de proyectos TI, gracias a esta carrera pude encontrar lo que me apasiona.</h4>
+<h4>Actualmente me gradúe en el Bootcamp de Soy Henry como Full Stack Developer, en el cual pase mas de 700hs en codigo.</h4>
+<h4>Me considero una persona autodidacta, siempre estoy en busca de aprender mucho mas sobre este mundo de la programacion que es tan grande. Mi carrera de tecnico analista de sistemas me llevo a afianzar mi logica de programacion por lo cual considero que una de mis aptitudes mas fuertes es el pensamiento analitico, a demas de que me gusta la resolucion de problemas, soy de aquellos que se emocionan cuando algo les resulta dificil, lo tomo como un desafio conmigo mismo y siempre lo afronto con todas mis ganas</h4>
 
-- 💬 Ask me about **React JS, JavaScript, Node JS, expressJS , mongoDB ,HTML5, CSS3**
+- Estoy interesado en todo lo relacionado al desarrollo web.
 
 
+- 💬 Preguntame sobre **React JS, JavaScript, Node JS, expressJS , mongoDB ,HTML5, CSS3**
+
+🧑‍🎓 Tecnologias que sé/ uso:
+- 🧠 FrontEnd: JavaScript, React, TypeScript, Redux, HTML5, CSS3
+- 🧠 BackEnd: NodeJS, expressJS, TypeScript
+- 🧠 Base de datos: MongoDB, FireBase, MariaDB, mySql, SQL server, PostgreSQL
+
+🎖️Actualmente me encuentro aprendiendo: NextJS, GraphQL
+😁Estoy interesado en aprender: Angular, Vue, Flutter para desarrollo mobile
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
