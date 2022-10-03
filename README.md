@@ -16,7 +16,7 @@
 - 🧠 BackEnd: NodeJS, expressJS, TypeScript, NestJS
 - 🧠 Base de datos: MongoDB, FireBase, MariaDB, mySql, SQL server, PostgreSQL
 
-🎖️Actualmente me encuentro aprendiendo: NextJS, GraphQL
+🎖️Actualmente me encuentro aprendiendo: Python con Django para el back
 😁Estoy interesado en aprender: Angular, Vue, Flutter para desarrollo mobile
 
 <h3 align="left">Contacta conmigo:</h3>
