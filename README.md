@@ -13,7 +13,7 @@
 
 🧑‍🎓 Tecnologias que sé/ uso:
 - 🧠 FrontEnd: JavaScript, React, TypeScript, Redux, HTML5, CSS3
-- 🧠 BackEnd: NodeJS, expressJS, TypeScript
+- 🧠 BackEnd: NodeJS, expressJS, TypeScript, NestJS
 - 🧠 Base de datos: MongoDB, FireBase, MariaDB, mySql, SQL server, PostgreSQL
 
 🎖️Actualmente me encuentro aprendiendo: NextJS, GraphQL
