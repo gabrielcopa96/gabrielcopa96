@@ -9,15 +9,15 @@
 - Estoy interesado en todo lo relacionado al desarrollo web.
 
 
-- 💬 Preguntame sobre **React JS, JavaScript, Node JS, expressJS , mongoDB ,HTML5, CSS3**
+- 💬 Preguntame sobre **React JS, JavaScript, Node JS, expressJS , mongoDB ,HTML5, CSS3, Nest JS, SQL**
 
 🧑‍🎓 Tecnologias que sé/ uso:
-- 🧠 FrontEnd: JavaScript, React, TypeScript, Redux, HTML5, CSS3
-- 🧠 BackEnd: NodeJS, expressJS, TypeScript, NestJS
-- 🧠 Base de datos: MongoDB, FireBase, MariaDB, mySql, SQL server, PostgreSQL
+- 🧠 FrontEnd: JavaScript, React, TypeScript, Redux, HTML5, CSS3, SASS, TailwindCSS
+- 🧠 BackEnd: NodeJS, express JS, TypeScript, NestJS
+- 🧠 Base de datos: MongoDB, Firebase, MariaDB, mySql, SQL Server, PostgreSQL, Oracle
 
-🎖️Actualmente me encuentro aprendiendo: Python con Django para el back
-😁Estoy interesado en aprender: Angular, Vue, Flutter para desarrollo mobile
+🎖️Actualmente me encuentro aprendiendo: Angular
+😁Estoy interesado en aprender: React Native y Flutter para desarrollo mobile
 
 <h3 align="left">Contacta conmigo:</h3>
 <p align="left">
