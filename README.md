@@ -1,10 +1,12 @@
 <h1 align="center">Hola 👋, Bienvenidos soy Gabriel Marcelo Copa</h1>
 
-<h2 align="center">Full Stack Developer 😁</h2>
+<h2 align="center">Full Stack Developer con oriantación Back End Developer 😁</h2>
 
+<h4>Me encuentro trabajando como Full Stack Developer para una empresa contable, la cual me encuentro realizando la Rest Api de la app</h4>
 <h4 >Me gradue como Técnico Analista de Sistemas por 2018, en el cual adquiri conocimientos de gestión de proyectos TI como asi tambien aprendí el lenguaje de Delphi y diseño y desarrollo de Base de Datos, gracias a esta carrera pude encontrar lo que tanto me apasiona.</h4>
-<h4>Actualmente me gradúe en el Bootcamp de Soy Henry como Full Stack Developer 🧑‍🎓, en el cual pase mas de 700hs en codigo.</h4>
-<h4>Me considero una persona autodidacta, siempre estoy en busca de aprender mucho mas sobre este mundo de la programacion que es tan grande. Mi carrera de tecnico analista de sistemas me llevo a afianzar mi logica de programacion por lo cual considero que una de mis aptitudes mas fuertes es el pensamiento analitico, a demas de que me gusta la resolucion de problemas, soy de aquellos que se emocionan cuando algo les resulta dificil, lo tomo como un desafio conmigo mismo y siempre lo afronto con todas mis ganas.</h4>
+<h4>Soy graduado del Bootcamp de Soy Henry como Full Stack Developer 🧑‍🎓, en el cual pase mas de 700hs en codigo y donde aprendí la mayor parte del stack que utlizo actualmente.</h4>
+<h4>Me considero una persona autodidacta, siempre estoy en busca de aprender mucho mas sobre este mundo de la programación. Mi carrera de técnico analista de sistemas me llevo a afianzar mi lógica de programación por lo cual considero que una de mis aptitudes mas fuertes es el pensamiento analítico, a demas de que me gusta la resolución de problemas, soy de aquellos que se emocionan cuando algo les resulta dificil, lo tomo como un desafio conmigo mismo y siempre lo afronto con todas mis ganas.</h4>
+
 
 - Estoy interesado en aprender de ambos stack Front End y Back End, aunque hoy en dia le estoy dando prioridad al BackEnd.
 
