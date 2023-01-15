@@ -6,7 +6,7 @@
 <h4>Actualmente me gradúe en el Bootcamp de Soy Henry como Full Stack Developer 🧑‍🎓, en el cual pase mas de 700hs en codigo.</h4>
 <h4>Me considero una persona autodidacta, siempre estoy en busca de aprender mucho mas sobre este mundo de la programacion que es tan grande. Mi carrera de tecnico analista de sistemas me llevo a afianzar mi logica de programacion por lo cual considero que una de mis aptitudes mas fuertes es el pensamiento analitico, a demas de que me gusta la resolucion de problemas, soy de aquellos que se emocionan cuando algo les resulta dificil, lo tomo como un desafio conmigo mismo y siempre lo afronto con todas mis ganas.</h4>
 
-- Estoy interesado en todo lo relacionado al desarrollo web.
+- Estoy interesado en aprender de ambos stack Front End y Back End, aunque hoy en dia le estoy dando prioridad al BackEnd.
 
 
 - 💬 Preguntame sobre **React JS, JavaScript, Node JS, expressJS , mongoDB ,HTML5, CSS3, Nest JS, SQL**
@@ -16,7 +16,7 @@
 - 🧠 BackEnd: NodeJS, express JS, TypeScript, NestJS
 - 🧠 Base de datos: MongoDB, Firebase, MariaDB, mySql, SQL Server, PostgreSQL, Oracle
 
-🎖️Actualmente me encuentro aprendiendo: Angular
+🎖️Actualmente me encuentro aprendiendo: Python con Django/RestFramework para Back End.<br>
 😁Estoy interesado en aprender: React Native y Flutter para desarrollo mobile
 
 <h3 align="left">Contacta conmigo:</h3>
