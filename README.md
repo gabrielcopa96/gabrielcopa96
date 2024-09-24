@@ -2,7 +2,7 @@
 
 <h2 align="center">Full Stack Developer con oriantación Back End Developer 😁</h2>
 
-<h4>Me encuentro trabajando como Full Stack Developer para una empresa contable de Francia, actualmente me encuentro realizando todo el back end, la api que va a consumir el frontend de la app de la empresa, lo cual es una aplicación web que se encarga de gestionar tus gastos y tener un control de duedores de tu empresa</h4>
+<h4>Me encuentro trabajando como Full Stack Developer para una startup, me encuentro realizandonoslos tareas backend y frontend</h4>
 <h4 >Me gradue como Técnico Analista de Sistemas por 2018, en el cual adquiri conocimientos de gestión de proyectos TI como asi tambien aprendí el lenguaje de Delphi y diseño y desarrollo de Base de Datos, gracias a esta carrera pude encontrar lo que tanto me apasiona.</h4>
 <h4>Soy graduado del Bootcamp de Soy Henry como Full Stack Developer 🧑‍🎓, en el cual pase mas de 700hs en codigo y donde aprendí la mayor parte del stack que utlizo actualmente.</h4>
 <h4>Me considero una persona autodidacta, siempre estoy en busca de aprender mucho mas sobre este mundo de la programación. Mi carrera de técnico analista de sistemas me llevo a afianzar mi lógica de programación por lo cual considero que una de mis aptitudes mas fuertes es el pensamiento analítico, a demas de que me gusta la resolución de problemas, soy de aquellos que se emocionan cuando algo les resulta dificil, lo tomo como un desafio conmigo mismo y siempre lo afronto con todas mis ganas.</h4>
